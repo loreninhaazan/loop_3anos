@@ -9,10 +9,10 @@ function verificarTime() {
 
     
     if (respostaTime.toLowerCase() === "vôlei") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+      alert("Isso mesmo! O volêi é o melhor esporte!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
-      alert("Não é isso! Tente novamente.");
+      alert("Tente novamente!.");
     }
   }
 }
